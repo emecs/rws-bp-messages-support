@@ -1,13 +1,14 @@
-# RWS BuddyPress Messages
+# Thread Runner
 
-#### For a moment, messages felt like chat.
+<img align="left" width="80" height="80" src="https://thread-runner.netlify.app/images/avatar-80x80.png">
 
-Built with <i>Preact</i>, <i>Tailwind CSS</i> and <i>PHP</i> - it's lightweight WordPress plugin that simulates chat
-features.
+**BuddyPress Messenger**
 
-###Check inbox - Reply - Create new message
+Integrated with BuddyPress Messages component. Built with <i>(p)React</i>, <i>Tailwind CSS</i> and <i>PHP</i> - it's WordPress plugin that simulates chat features.
 
-Demo site: https://rws-bp-messages.netlify.app/
+### Check inbox - Reply - Create new message
+
+Demo site: https://thread-runner.netlify.app/
 
 <ul>
     <li>Auto-refreshing</li>
@@ -17,17 +18,16 @@ Demo site: https://rws-bp-messages.netlify.app/
     <li>Localized strings</li>
     <li>Localized date</li>
     <li>Clickable contents</li>
+    <li>Text formatting</li>
+    <li>Sound notification</li>
+    <li>Dark mode</li>
 </ul>
 
-##Localization
+## Localization
 
 Plugin uses BuddyPress strings (textdomain 'buddypress'), so if you're using localized version, strings will be
 auto-translated.
 
-##Hooks
+## Hooks
 
-Learn more about hooks on our [demo page](https://rws-bp-messages.netlify.app/).
-
-You can customize plugin using following hooks
-
-Share your impressions <a href="https://twitter.com/emecsDev">@emecsDev</a>
+Learn more about hooks on our [demo page](https://thread-runner.netlify.app/).
